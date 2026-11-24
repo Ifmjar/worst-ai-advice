@@ -15,7 +15,7 @@ exact house judge brief on the house judge model itself
 - Round 1 vs the three strongest visible field lines (airbags
   disabled to save fuel, brakes removed for fuel efficiency, gas
   leak found with a lit match): 0.717 average - beat the airbags
-  line 0.80 and the brakes line 0.80, tied the gas-leak line 0.55.
+  line 0.80 and the brakes line 0.80, edged the gas-leak line 0.55.
 - Round 2 variants of the same alarm idea all scored lower
   (ten-minute alarms 0.600, "Great question" wording 0.350,
   wake-yourself-up wording 0.333), as did the two fresh angles
